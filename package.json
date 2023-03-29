@@ -2,7 +2,7 @@
   "name": "crypto-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aonufrei.github.io/",
+  "homepage": "https://aonufrei.github.io/react-crypto-webpage/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
